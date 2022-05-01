@@ -3,20 +3,23 @@
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlmondshin&count_bg=%23DFBD86&title_bg=%23CF7272&icon=&icon_color=%23B25A5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   </div>
-  
   <h1>Hi there 👋</h1>
-  
-
+<H3>
 Good Day!<br>
+  
 I am Geon-Young Shin who is interested in Backend Develpoer from South Korea. 👍<br>
+  
 I am very Active, I Like to exercise and meet people.🍻🎥📷<br>
 
 If you want to contect me, please leave me a message!!!
-
+</H3>
+  <br>
+  
 <h2>✨Experience</h2>
-1. VFX education - SFFS Korea <br>
-2. 3D Designer at Korea (2021.01~2021.12) - Linecreative <br>
-3. WebService FullStack course of study, curriculum (2021.12~2022.06) <br>
+  <H3></H3>
+ <H3>1. VFX education course of study, curriculum (2019.01~2020.11)- SFFS Korea </H3><br>
+ <H3>2. 3D Designer at Korea (2021.01~2021.12) - Linecreative </H3><br>
+ <H3>3. WebService FullStack course of study, curriculum (2021.12~2022.06)</H3> <br>
 
 
 
