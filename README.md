@@ -32,4 +32,6 @@
   <br>
 </div>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Midnightstudio&extension=activity&theme=auto)![Almondshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almondshin&show_icons=true&theme=onedark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almondshin&layout=compact&theme=onedark)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Midnightstudio&extension=activity&theme=auto)
+
+![Almondshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almondshin&show_icons=true&theme=onedark)
