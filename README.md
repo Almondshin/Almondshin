@@ -51,9 +51,10 @@ If you want to contect me, please leave me a message!!!
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
-</div>
 <hr>  
   
  ⚡ -MyPortfolio Link-⚡<br>
   https://docs.google.com/presentation/d/1q4R7v7H5cKpHHeJRUZeJJ-GDC4-TqVFkmbF7_r915i8/edit?usp=sharing
+</div>
+  
 ![Almondshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almondshin&show_icons=true&theme=onedark)
