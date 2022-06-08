@@ -53,8 +53,6 @@ If you want to contect me, please leave me a message!!!
   <br>
 <hr>  
   
- ⚡ -MyPortfolio Link-⚡<br>
-  https://docs.google.com/presentation/d/1q4R7v7H5cKpHHeJRUZeJJ-GDC4-TqVFkmbF7_r915i8/edit?usp=sharing
 </div>
   
 ![Almondshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almondshin&show_icons=true&theme=onedark)
