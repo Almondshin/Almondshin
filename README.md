@@ -20,7 +20,6 @@ If you want to contect me, please leave me a message!!!
  <H3>1. VFX education course of study, curriculum (2019.01~2020.11)- SFFS Korea </H3><br>
  <H3>2. 3D Designer at Korea (2021.01~2021.12) - Linecreative </H3><br>
  <H3>3. WebService FullStack course of study, curriculum (2021.12~2022.06)</H3> <br>
- <H3>4. OJT curriculum (2022.06~2022.06)</H3> <br>
 
 
 
