@@ -17,9 +17,9 @@ If you want to contect me, please leave me a message!!!
   
 <h2>✨Experience</h2>
   <H3></H3>
- <H3>1. VFX education course of study, curriculum (2019.01~2020.11)- SFFS Korea </H3><br>
+ <H3>1. VFX Effect education curriculum (2019.01~2020.11) - SFFS Korea </H3><br>
  <H3>2. 3D Designer at Korea (2021.01~2021.12) - Linecreative </H3><br>
- <H3>3. WebService FullStack course of study, Multicampus curriculum (2021.12~2022.06)</H3> <br>
+ <H3>3. WebService FullStack curriculum (2021.12~2022.06) - Multicampus </H3> <br>
 
 
 
