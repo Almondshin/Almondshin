@@ -35,7 +35,7 @@ If you want to contect me, please leave me a message!!!
   <br>
 <hr>  
   <h1> Learning </h1>
-  <img src="https://img.shields.io/badge/python-6DB33F?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </div>
   
 ![Almondshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almondshin&show_icons=true&theme=onedark)
