@@ -22,6 +22,8 @@ If you want to contect me, please leave me a message!!!
  <H3>3. WebService FullStack curriculum (2021.12~2022.06) - Multicampus </H3> <br>
 
 
+  <h3>개발 블로그</h3>
+  https://almondshin.tistory.com/
 
 
   
