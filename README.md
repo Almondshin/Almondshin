@@ -15,15 +15,16 @@ If you want to contect me, please leave me a message!!!
 </H3>
   <br>
   
-<h2>✨Experience</h2>
-  <H3></H3>
+<h2>Experience✨</h2>
+
  <H3>1. VFX Effect education curriculum (2019.01~2020.11) - SFFS Korea </H3><br>
  <H3>2. 3D Designer at Korea (2021.01~2021.12) - Linecreative </H3><br>
  <H3>3. WebService FullStack curriculum (2021.12~2022.06) - Multicampus </H3> <br>
 
-  <H2>Software Engineering Blog</H2>  
+
+  <H2>Software Engineering Blog🖥</H2>  
   
-  [✨재야의 건영이가 고수가되는 과정✨](https://almondshin.tistory.com/)
+  [재야의 건영이가 고수가되는 과정](https://almondshin.tistory.com/)
 
 
   
